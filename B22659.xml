@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact account of the taking of the pass of Butlers'-Bridge, and of the demolishing of Cavan. With the particulars of defeating the Irish forces at those places. In a letter from an Officer at Belturbet, to a Person of Quality in London. Licensed March 29. 1690.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22659</idno><idno type="EEBO-CITATION">99886665</idno>
+  <idno type="VID">187633</idno>
+  <idno type="EEBO-PROQUEST">2240888586</idno>
+  
+            <idno type="STC">Wing E3585A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.23[72]</idno>
+            <idno type="STC">ESTC R226342</idno>
+            <idno type="PROQUEST">ocm99886665</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886665e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187633)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:2[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact account of the taking of the pass of Butlers'-Bridge, and of the demolishing of Cavan. With the particulars of defeating the Irish forces at those places. In a letter from an Officer at Belturbet, to a Person of Quality in London. Licensed March 29. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Goodman, in Fleet-street,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: some faded print in text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:187633:1"/>
+            <pb facs="tcp:187633:1"/>
+            <head>AN EXACT ACCOUNT Of the Taking of the <hi>Pass of Butlers-Bridge,</hi> And of the Demolishing of <hi>CAVAN.</hi>
+            </head>
+            <head type="sub">With the PARTICULARS of Defeating the <hi>Irish Forces</hi> at those Places. <hi>In a LETTER from an Officer at</hi> BELTURBET, <hi>to a Person of Quality in</hi> LONDON.</head>
+            <opener>
+               <dateline>Licensed <date>
+                     <hi>March</hi> 29. 1690.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YEsterday at Four in the Afternoon Colonell <hi>Wolsely</hi> sent out a Party under the Command of Lieut. Colonel <hi>Eckling</hi> and Major <hi>Billing,</hi> consisting of 100 <hi>Kirk</hi>'s, 80 <hi>Carlson,</hi> 120 <hi>Earles,</hi> and 130 <hi>Inniskilling</hi> Foot, with about 300 Horse and Dragoons, with Orders to March to <hi>Cavan,</hi> and to burn what Houses remained unburnt there, and if Opportunity serv'd, to take the Fort. They were to March above sixteen Miles to get a Pass, and the Horse and Dragoons to carry the Foot over a great River in the Night: Major <hi>Price</hi> was ordered with 200 Horse, and 50 of C. <hi>Earles</hi> Foot more, to March this Morning to a Bridge, called <hi>Butlers-Bridge,</hi> where the Enemy had a Guard of a Captain and Ensign, and 40 Men, well and strongly fortified, and the River very broad, Rocky, deep, and difficult to go over; but this Pass was in the right Road, and but seven miles that way to <hi>Cavan:</hi> This he was to force, and to leave the Foot there, and to secure it for the Retreat of the Party from <hi>Cavan,</hi> and to go on with the Horse to them at <hi>Cavan,</hi> which was performed with all the Bravery and Success could be wish'd for. The Captain with his Fifty play'd so hotly on the Enemy in their Works, that the Horse passed the Ford with only one Horse and two Men wounded. As soon as the first Horse got on the Bank on the Enemies side, they flung down their Arms, and trusted to their heels, which our Men seeing, some mounted behind the Troopers, others that had not that patience, boun<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed through, and took the Captain, <hi>Bryan Kelly</hi> his Ensign, and 17 of his Men Prisoners, and killed in the Woods most of the rest, I my self told Nine dead at several places. When the Horse were gone, we demolished their Fortifications; (I say we, not that I was in the Action,) but at day-light Col. <hi>Wolsely</hi> and I went out that way, volunteering to see how things went, and hear<g ref="char:EOLhyphen"/>ing pretty hot firing, hastened thither, and found them upon the
+<pb facs="tcp:187633:2"/> pursuit. According to my Judgment, the Pass might have been Defended with 40 stout Men many days against 4000 Men. Col. <hi>Wosely</hi> thanked them for their Behaviour, and gave them a Guinea, and I gave them Ten Shillings to encourage their Work to Demolish the Enemies Works, which before we had done by about One of the Clock, the <hi>Cavan-</hi>party was come thither, who had burnt all the Houses left the last time, except the Town-Hall, and one House and the Church, with the loss of six Men, and about as many wounded; of the first one Ensign <hi>Nelland</hi> of Col. <hi>Kirk</hi>'s Re<g ref="char:EOLhyphen"/>giment, who was much lamented, and about 60 of the Enemy kil<g ref="char:EOLhyphen"/>led: They all kept the Fort and the Houses, firing out at Windows, which were walled up to small Loop-holes. The first Alarm the Town had, was from the Party at <hi>Butlers-Bridge,</hi> else our Party, had they not been long passing the River, and the Guide, it being very dark, missed his way, hindred an hour or two, they had been at the Town by day-light, as designed, and had taken the Briga<g ref="char:EOLhyphen"/>dier <hi>Wahupps</hi> in his Bed in the Town, and most of the rest; but having the Alarm from <hi>Butlers-Bridge,</hi> prepared them, and <hi>Wahup</hi> was gone to the Fort.</p>
+            <p>Thus I have given you all the Particulars I know of in this Action, in which all of every Regiment behaved themselves with great Readiness and Bravery. One <hi>Wilkinson</hi> of <hi>Peppey</hi>'s Company was killed, and one of <hi>Goakings</hi> shot through the Hand at the Bridge. No more but my Humble Service to all my Friends. All the Of<g ref="char:EOLhyphen"/>ficers Present you their Humble Service, as in particular manner amongst them, pray accept that of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your most Obliged Servant.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>The <hi>Cavan</hi> Detachment out of Col. <hi>Erle's</hi> Regiment.</head>
+            <list>
+               <item>Captain <hi>Sorton.</hi>
+               </item>
+               <item>Captain <hi>Goakin.</hi>
+               </item>
+               <item>Captain <hi>Meering.</hi>
+               </item>
+               <item>Lieutenant <hi>Borne.</hi>
+               </item>
+               <item>Lieutenant <hi>Winne.</hi>
+               </item>
+               <item>Ensign <hi>Henning.</hi>
+               </item>
+               <item>Ensign <hi>Lee.</hi>
+               </item>
+            </list>
+            <p>A Sergeant out of every other Company, beginning with the Colonel's, and a Corporal out of each of the rest, three Drums, all the Granadiers with shells, twelve Men out of each full Company, and eight out of each of the rest.</p>
+            <p>The Detachment out of Col. <hi>Earle</hi>'s Regiment, to March at Six in the Morning for <hi>Butlers-Bridge.</hi> Captain <hi>Abington,</hi> Lieutenant <hi>Ramsey,</hi> Ensign <hi>Williams,</hi> three Sergeants, three Corporals, one Drum, fifty men.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> G. Goodman, <hi>in</hi> Fleet-street. 1690.</p>
+            <pb facs="tcp:187633:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
